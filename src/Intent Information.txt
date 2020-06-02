@@ -1,0 +1,18 @@
+
+Intent:  #Product_Info
+
+User Examples included in Product_Info intent :-
+
+1. How do I turn on the heater
+2. How do I access the settings
+3. How do I set the time
+4. How to install battery
+5. How to start heater
+
+
+Dialog:  Ask about product
+
+Parameters:
+ 
+  Input -               "<?input.text?>"
+  $webhook_result_1 -   "<?$webhook_result_1.passages[0].passage_text?>"
